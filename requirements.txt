@@ -1,0 +1,7 @@
+streamlit
+arxiv
+pandas
+transformers==4.33.2  # Or latest compatible version
+sentence-transformers
+torch==2.0.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+bert-score
