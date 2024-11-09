@@ -1,0 +1,7 @@
+streamlit
+arxiv
+pandas
+transformers
+sentence-transformers
+torch
+bert-score
